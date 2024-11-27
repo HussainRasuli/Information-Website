@@ -1,0 +1,1274 @@
+@media only screen and (min-width:1800px) {
+    .navbar-area .main-nav {
+    width: 70%;
+    left: 15%}
+.shape-ellips {
+    margin-top: -8%}
+.choose-area .home-choose-img::before {
+    height: 745px;
+    left: -15%}
+.choose-area .home-choose-content .section-tittle p {
+    padding-right: 22%}
+.left-shape {
+    left: 0;
+    max-width: 100%;
+    margin-top: 10%}
+.home-admission .single-addmission {
+    left: 12%}
+.home-admission .single-addmission .admission-circle {
+    left: 20%}
+.area-404 img {
+    max-width: 100%}
+.footer-area .footer-left p {
+    padding-right: 10%}
+.home-special-course .section-tittle p {
+    margin: auto 35%}
+}@media only screen and (min-width:1600px) {
+    .home-special-course .single-home-special-course:hover .course-img .course-content h2 {
+    bottom: 170px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content p {
+    bottom: 60px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content a {
+    bottom: 0;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 10px 70px;
+}
+.home-special-course .single-home-special-course .course-img .course-content .box-btn {
+    left: 36%}
+.home-admission .single-addmission .loon {
+    top: -15%;
+    right: 20%;
+    max-width: 4%}
+.left-shape {
+    left: 0;
+    max-width: 100%;
+    margin-top: 10%}
+}@media(min-width:992px) and (max-width:1200px) {
+    .box-btn {
+    padding: 12px 25px!important;
+    font-size: 15px;
+}
+.border-btn {
+    padding: 12px 25px!important;
+    font-size: 15px;
+}
+.shape-ellips, .left-shape {
+    display: none;
+}
+.slider-area {
+    height: 100%}
+.slider-area .home-slider .single-slider {
+    height: 650px;
+}
+.slider-area .home-slider .single-slider .slider-tittle {
+    padding: 0;
+}
+.slider-area .home-slider .single-slider .slider-tittle h1 {
+    font-size: 75px;
+    line-height: normal;
+}
+.service-area .single-service .service-content p {
+    font-size: 16px;
+}
+.home-ragular-course {
+    padding: 0;
+    padding-bottom: 30px;
+}
+.home-ragular-course .section-tittle p {
+    margin: 0 20%}
+.home-ragular-course .single-ragular-course .course-img h2 {
+    font-size: 25px;
+}
+.home-admission .single-addmission {
+    left: 10px;
+    background-size: contain;
+}
+.home-admission .single-addmission .admission-circle {
+    width: 390px;
+    height: 390px;
+}
+.home-admission .single-addmission .admission-content {
+    left: 60px;
+}
+.home-admission .single-addmission .admission-content h2 {
+    font-size: 25px;
+}
+.home-admission .single-addmission .admission-content .box-btn {
+    margin-top: 20px;
+}
+.course-slider-area .course-slider .course-slider-content {
+    max-width: 100%;
+    margin: 0;
+}
+.course-slider-area .course-slider .course-slider-content h2 {
+    font-size: 25px;
+}
+.course-slider-area .course-slider .course-slider-content p {
+    margin: 0;
+}
+.course-slider-area .course-slider-btn {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.home-special-course .section-tittle p, .home-news .section-tittle p, .home-teachers-area .section-tittle p {
+    margin: 0 20%}
+.home-contact-area .home-contact-content {
+    padding: 30px;
+}
+.home-contact-area .home-contact-content h2 {
+    font-size: 30px;
+}
+.contact-service .single-service .service-content p {
+    font-size: 16px;
+}
+.choose-area .home-choose-img {
+    padding-right: 40px;
+}
+.choose-area .home-choose-img::before {
+    height: 127%}
+.choose-area .home-choose, .choose-area .home-choose-content {
+    padding: 0;
+}
+.choose-area .home-choose .section-tittle, .choose-area .home-choose-content .section-tittle {
+    position: relative;
+    left: -12px;
+}
+.choose-area .home-choose .col-md-5, .choose-area .home-choose-content .col-md-5 {
+    padding-left: 0;
+}
+.choose-area .home-choose .col-md-7, .choose-area .home-choose-content .col-md-7 {
+    padding-left: 0;
+}
+.choose-area .home-choose .home-choose-content p, .choose-area .home-choose-content .home-choose-content p {
+    font-size: 15px;
+}
+.choose-area .home-choose ul li, .choose-area .home-choose-content ul li {
+    font-size: 14px;
+}
+.home-admission {
+    padding: 0 40px;
+}
+.home-admission .single-addmission .admission-circle {
+    left: -60px;
+}
+.home-admission .single-addmission .admission-content {
+    left: 40px;
+}
+.home-admission .single-addmission .admission-content h2 {
+    font-size: 23px;
+}
+.home-admission .single-addmission .loon {
+    display: none;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content h2 {
+    bottom: 170px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content p {
+    bottom: 70px;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 5px 10px;
+}
+.news .pagination {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.news .single-news .content {
+    padding: 20px;
+}
+.news .single-news .content a h2 {
+    font-size: 17px;
+}
+.single-news-area .share {
+    right: -60%;
+    bottom: 35px;
+}
+.about-area .about-btn {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.about-area .about-btn .video-pop {
+    margin-top: 12px;
+}
+.home-contact-area .list-unstyled {
+    font-size: 14px;
+}
+.events .single-events .content, .events .single-events .single-home-content, .events .single-home-news .content, .events .single-home-news .single-home-content, .home-news .single-events .content, .home-news .single-events .single-home-content, .home-news .single-home-news .content, .home-news .single-home-news .single-home-content {
+    padding: 30px 24px;
+}
+.events .single-events .content h2, .events .single-events .single-home-content h2, .events .single-home-news .content h2, .events .single-home-news .single-home-content h2, .home-news .single-events .content h2, .home-news .single-events .single-home-content h2, .home-news .single-home-news .content h2, .home-news .single-home-news .single-home-content h2 {
+    font-size: 17px;
+}
+.price-area .single-price .price-head h2 {
+    font-size: 25px;
+}
+.price-area .single-price .price-head p {
+    font-size: 30px;
+}
+.single-event .right-content .single-content .content {
+    padding: 30px 20px;
+}
+.single-event .right-content .single-content .content a h2 {
+    font-size: 17px;
+}
+.single-news-area .news-content-right .consultation-area h2 {
+    font-size: 19px;
+}
+.single-news-area .more-news .single-news .content {
+    padding: 30px 25px;
+}
+.single-news-area .more-news .single-news .content a h2 {
+    font-size: 19px;
+}
+}@media(min-width:768px) and (max-width:991px) {
+    .mean-container .mean-nav {
+    max-height: 300px;
+    overflow: auto;
+}
+.page-title-content {
+    margin-top: 40px;
+}
+.page-title-content h2 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.page-title-content p {
+    font-size: 15px;
+}
+.page-title-content ul li a {
+    font-size: 15px;
+}
+.box-btn {
+    padding: 12px 25px!important;
+}
+.border-btn {
+    padding: 12px 25px!important;
+}
+.ps-0, .px-0 {
+    padding-left: 20px!important;
+}
+.shape-ellips, .left-shape {
+    display: none;
+}
+.navbar-area {
+    top: 0;
+}
+.navbar-area a.logo {
+    width: 40%}
+.navbar-area a.said-bar-list {
+    display: none;
+}
+.slider-area {
+    height: 100%;
+    display: inline;
+}
+.slider-area .home-slider .single-slider {
+    height: 650px;
+}
+.slider-area .home-slider .single-slider .slider-tittle {
+    padding: 0;
+}
+.slider-area .home-slider .single-slider .slider-tittle h1 {
+    font-size: 55px;
+    line-height: normal;
+    padding-top: 0%}
+.slider-area .home-slider .single-slider .slider-tittle p {
+    padding: 0;
+}
+.service-area {
+    bottom: 0;
+    padding: 50px 0;
+}
+.service-area .single-service .service-content p {
+    font-size: 18px;
+}
+.service-area .sst-10 {
+    position: relative;
+    margin-top: 30px;
+}
+.home-ragular-course {
+    padding-bottom: 50px;
+}
+.home-ragular-course .section-tittle {
+    margin-bottom: 10px;
+}
+.home-ragular-course .section-tittle p {
+    margin: 0 10%}
+.home-ragular-course .single-ragular-course {
+    margin-top: 20px;
+}
+.home-ragular-course .single-ragular-course .course-content {
+    padding: 25px 10px;
+}
+.home-ragular-course .single-ragular-course .course-img h2 {
+    font-size: 28px;
+}
+.home-ragular-course .sst-10 {
+    position: relative;
+    left: 25%;
+    top: 10px;
+}
+.choose-area {
+    padding: 70px 0;
+}
+.choose-area .home-choose-img {
+    padding-right: 0;
+}
+.choose-area .home-choose-img::before {
+    display: none;
+}
+.home-choose-content {
+    margin-top: 3%}
+.home-choose-content .section-tittle p {
+    padding-right: 0;
+}
+.home-choose-content .choose-list-home {
+    padding-left: 0;
+}
+.home-choose-content .box-btn {
+    display: block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-66%, -5%);
+    transform: translate(-66%, -5%);
+    padding: 13px 25px!important;
+}
+.home-admission {
+    padding-bottom: 70px;
+    padding-top: 0;
+}
+.home-admission .single-addmission {
+    background: #1d42d9;
+    border-radius: 230px 0 0 230px;
+    left: 0;
+}
+.home-admission .single-addmission .admission-circle {
+    width: 300px;
+    height: 300px;
+    border: 20px solid #1d42d9;
+    top: 5px;
+    left: -13px;
+}
+.home-admission .single-addmission .admission-circle h2 {
+    font-size: 45px;
+}
+.home-admission .single-addmission .admission-content {
+    left: 15px;
+    top: 18px;
+}
+.home-admission .single-addmission .admission-content h2 {
+    padding-top: 0;
+    font-size: 18px;
+    line-height: normal;
+}
+.home-admission .single-addmission .admission-content p {
+    font-size: 14px;
+}
+.home-admission .single-addmission .admission-content .admission-list {
+    padding-right: 45px;
+}
+.home-admission .single-addmission .admission-content .admission-list p {
+    font-size: 25px!important;
+    line-height: 65px;
+    margin-bottom: 0;
+}
+.home-admission .single-addmission .admission-content .admission-list span {
+    margin-bottom: 5px;
+    font-size: 17px;
+    line-height: 45px;
+}
+.home-admission .single-addmission .admission-content .admission-list li p {
+    width: 70px;
+    height: 70px;
+    line-height: 65px;
+}
+.home-admission .single-addmission .admission-content .box-btn {
+    margin-top: 20px;
+}
+.home-special-course {
+    padding: 70px 0;
+}
+.home-special-course .section-tittle {
+    margin-bottom: 10px;
+}
+.home-special-course .section-tittle p {
+    margin: 0 10%}
+.home-special-course .owl-nav button.owl-prev {
+    left: 0;
+}
+.home-special-course .owl-nav button.owl-next {
+    right: 0;
+}
+.course-slider-area {
+    padding-bottom: 70px;
+}
+.course-slider-area .course-slider .course-slider-content {
+    max-width: 100%;
+    margin: 0;
+}
+.course-slider-area .course-slider .course-slider-content h2 {
+    font-size: 25px;
+}
+.course-slider-area .course-slider .course-slider-content p {
+    margin: 0;
+}
+.course-slider-area .course-slider-btn {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.course-slider-area .course-slider-btn .box-btn, .course-slider-area .course-slider-btn .border-btn {
+    padding: 10px!important;
+    font-size: 14px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content h2 {
+    bottom: 170px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content p {
+    bottom: 60px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content a {
+    bottom: 0;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 10px 30px;
+}
+.home-news {
+    padding: 70px 0;
+}
+.home-news .section-tittle {
+    margin-bottom: 10px;
+}
+.home-news .section-tittle p {
+    margin: 0 10%}
+.home-news .sst-10 {
+    position: relative;
+    left: 25%;
+    top: 10px;
+}
+.home-teachers-area {
+    padding-top: 0;
+    padding-bottom: 70px;
+}
+.home-teachers-area .section-tittle {
+    margin-bottom: 10px;
+}
+.home-teachers-area .section-tittle p {
+    margin: 0 10%}
+.home-contact-area {
+    padding-top: 0;
+    padding-bottom: 70px;
+}
+.home-contact-area .home-contact-content {
+    left: 0;
+}
+.footer-area {
+    padding: 70px 0;
+}
+.footer-area .fml-15 {
+    margin-left: 0%;
+    margin-top: 20px;
+}
+.footer-area .fml-25, .footer-area .fml-20 {
+    margin-left: 20%}
+.banner-area {
+    height: 350px;
+}
+.banner-area::before {
+    background-size: cover;
+    background-position: center center;
+}
+.about-area {
+    padding: 50px 0;
+}
+.about-area .single-about .about-contnet p {
+    padding-right: 0;
+}
+.about-area .about-btn {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.about-area .about-btn .video-pop {
+    margin-top: 25px;
+}
+.about-area .about-btn .video-pop .video {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    margin: 0 0;
+}
+.single-class-area {
+    padding: 50px 0;
+}
+.single-class-area .single-class .class-contnet p {
+    padding-right: 0;
+}
+.events {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.single-event {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.single-event .event-slider .content h2 {
+    font-size: 22px;
+    padding-bottom: 15px;
+}
+.single-event .share {
+    right: 25px;
+    bottom: -1%}
+.single-event .right-content .single-content .content {
+    padding: 20px 15px;
+}
+.single-event .right-content .single-content .content a h2 {
+    font-size: 18px;
+}
+.shape-ellips-contact {
+    display: none;
+}
+.contact-service {
+    padding-top: 50px;
+    bottom: 0;
+}
+.contact-service .single-service .service-content p {
+    font-size: 18px;
+}
+.contact-service .sst-10 {
+    position: relative;
+    left: 55%;
+    top: 30px;
+}
+.price-area {
+    padding: 50px 0;
+}
+.price-area .sst-10 {
+    position: relative;
+    left: 50%}
+.faq-area {
+    padding: 50px 0;
+}
+.news {
+    padding: 50px 0;
+}
+.news .pagination {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.news .single-news .content {
+    padding: 20px;
+}
+.news .single-news .content a h2 {
+    font-size: 20px;
+}
+.price-area {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.price-area .single-price {
+    margin-top: 30px;
+}
+.privecy-area, .terms-area, .single-teacher-area {
+    padding: 50px 0;
+}
+.single-news-area .share {
+    right: -40%;
+    bottom: 35px;
+}
+.single-news-area .news-content-right .consultation-area h2 {
+    font-size: 19px;
+}
+.home-news .single-home-news .single-home-content h2 {
+    font-size: 18px;
+}
+.contact-service .sst-10 {
+    left: 0;
+}
+}@media(max-width:767px) {
+    .mean-container .mean-nav {
+    max-height: 300px;
+    overflow: auto;
+}
+.shape-ellips, .left-shape {
+    display: none;
+}
+.box-btn {
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-right: 0;
+}
+.border-btn {
+    padding: 9px 20px;
+    font-size: 15px;
+    margin-right: 0;
+}
+.section-tittle h2 {
+    font-size: 25px;
+}
+p {
+    font-size: 15px!important;
+}
+.page-title-content {
+    margin-top: 50px;
+}
+.page-title-content h2 {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.page-title-content p {
+    font-size: 15px;
+}
+.page-title-content ul li a {
+    font-size: 15px;
+}
+.navbar-area {
+    top: 0;
+}
+.navbar-area a.logo {
+    width: 75%}
+.navbar-area a.said-bar-list {
+    display: none;
+}
+.know_btn{
+    width: 50% !important;
+}
+.slider-area {
+    height: 100%;
+    display: inline;
+}
+.slider-area .home-slider .single-slider {
+    height: 100%}
+.slider-area .home-slider .single-slider .slider-tittle {
+    padding: 0;
+    padding-top: 100px;
+}
+.slider-area .home-slider .single-slider .slider-tittle h1 {
+    font-size: 25px;
+    line-height: normal;
+}
+.slider-area .home-slider .single-slider .slider-tittle p {
+    padding: 0;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+.slider-area .owl-nav {
+    display: none!important;
+}
+.slider-area .slider-btn {
+    padding-bottom: 20px;
+}
+.slider-area .slider-btn .box-btn {
+    padding: 10px 20px;
+    font-size: 15px;
+    margin-right: 0;
+}
+.slider-area .slider-btn .border-btn {
+    padding: 9px 20px;
+    font-size: 15px;
+    margin-right: 0;
+}
+.about-area .about-content-right .consultation-area .box-btn {
+    padding: 10px 30px;
+    font-size: 15px;
+}
+.service-area {
+    bottom: 0;
+}
+.service-area .single-service {
+    margin-top: 20px;
+}
+.service-area .single-service .service-icon {
+    margin-bottom: 10px;
+}
+.service-area .single-service h2 {
+    font-size: 20px;
+}
+.home-ragular-course {
+    padding: 50px 0;
+}
+.home-ragular-course .section-tittle {
+    margin-bottom: 10px;
+}
+.home-ragular-course .section-tittle p {
+    margin: 0;
+}
+.home-ragular-course .single-ragular-course {
+    margin-top: 20px;
+}
+.home-ragular-course .single-ragular-course .course-img h2 {
+    font-size: 25px;
+}
+.home-ragular-course .single-ragular-course .course-content {
+    padding: 25px 10px;
+}
+.choose-area {
+    padding-bottom: 0px !important;
+    padding: 50px 0;
+}
+.choose-area .home-choose-img {
+    padding-right: 0;
+}
+.choose-area .home-choose-img::before {
+    height: 140%}
+.choose-area .home-choose-content {
+    margin-top: 20%}
+.choose-area .home-choose-content .section-tittle p {
+    padding-right: 0;
+}
+.choose-area .home-choose-content .choose-list-home {
+    padding-left: 0;
+}
+.choose-area .home-choose-content .box-btn {
+    left: 10px;
+    padding: 10px 20px;
+}
+.home-admission {
+    padding-bottom: 50px;
+    padding-top: 0;
+}
+.home-admission .admission-shape1, .home-admission .admission-shape2, .home-admission .admission-shape3, .home-admission .admission-shape4 {
+    display: none;
+}
+.home-admission .single-addmission {
+    background: #1d42d9;
+    border-radius: 230px 230px 0 0;
+    left: 0;
+}
+.home-admission .single-addmission .admission-circle {
+    width: 300px;
+    height: 300px;
+    border: 30px solid #1d42d9;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.home-admission .single-addmission .admission-circle h2 {
+    font-size: 35px;
+}
+.home-admission .single-addmission .admission-content {
+    left: 0;
+    padding: 0 20px;
+    text-align: center;
+}
+.home-admission .single-addmission .admission-content h2 {
+    padding-top: 0;
+    font-size: 20px;
+    line-height: normal;
+}
+.home-admission .single-addmission .admission-content .admission-list {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.home-admission .single-addmission .admission-content .admission-list p {
+    font-size: 30px!important;
+    line-height: 65px;
+    margin-bottom: 0;
+}
+.home-admission .single-addmission .admission-content .admission-list span {
+    margin-bottom: 5px;
+    font-size: 17px;
+    line-height: 45px;
+}
+.home-admission .single-addmission .admission-content .admission-list li p {
+    width: 70px;
+    height: 70px;
+    line-height: 65px;
+}
+.home-admission .single-addmission .admission-content .box-btn {
+    margin-top: 20px;
+}
+.home-special-course {
+    padding: 50px 0;
+}
+.home-special-course .section-tittle {
+    margin-bottom: 10px;
+}
+.home-special-course .section-tittle p {
+    margin: 0;
+}
+.home-special-course .single-home-special-course .course-img .course-content h2 {
+    bottom: 10px;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 0;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content {
+    height: 100%}
+.home-special-course .single-home-special-course:hover .course-img .course-content h2 {
+    bottom: 170px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content p {
+    bottom: 60px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content a {
+    bottom: 0;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 10px 30px;
+    font-size: 14px!important;
+}
+.home-special-course .owl-nav button.owl-prev {
+    left: 0;
+}
+.home-special-course .owl-nav button.owl-next {
+    right: 0;
+}
+.course-slider-area {
+    padding-bottom: 50px;
+}
+.course-slider-area .course-slider .course-slider-content {
+    max-width: 100%;
+    margin: 0;
+}
+.course-slider-area .course-slider .course-slider-content h2 {
+    font-size: 25px;
+    margin-top: 15px;
+}
+.course-slider-area .course-slider .course-slider-content p {
+    margin: 0;
+}
+.course-slider-area .course-slider-btn .box-btn {
+    padding: 10px 20px;
+    margin-right: 0;
+}
+.course-slider-area .course-slider-btn .border-btn {
+    padding: 9px 20px;
+    margin-right: 0;
+    margin-top: 10px;
+}
+.course-slider-area .owl-nav {
+    display: none!important;
+}
+.course-slider-area .course-slider-btn {
+    margin-bottom: 10px;
+}
+.home-news {
+    padding: 50px 0;
+}
+.home-news .section-tittle {
+    margin-bottom: 10px;
+}
+.home-news .section-tittle p {
+    margin: 0;
+}
+.home-news .single-home-news .single-home-content {
+    padding: 20px;
+}
+.home-news .single-home-news .single-home-content h2 {
+    font-size: 17px;
+}
+.home-teachers-area {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+.home-teachers-area .section-tittle {
+    margin-bottom: 10px;
+}
+.home-teachers-area .section-tittle p {
+    margin: 0;
+}
+.home-teachers-area .single-home-teacher .teachers-content p {
+    font-size: 13px!important;
+}
+.home-contact-area {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+.home-contact-area .home-contact-content {
+    padding: 30px 15px;
+    border-radius: 40px;
+    left: 0;
+}
+.home-contact-area .home-contact-content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.home-contact-area .box-btn {
+    padding: 10px 30px;
+    font-size: 15px;
+}
+.home-contact-area .text-danger {
+    font-size: 15px;
+}
+.footer-area {
+    padding: 50px 0;
+}
+.footer-area .fml-25, .footer-area .fml-15 {
+    margin-left: 0;
+}
+.footer-area .footer-content {
+    margin-top: 20px;
+}
+.footer-area .footer-content h2 {
+    margin-bottom: 0;
+}
+.footer-area .logo {
+    width: 40%!important;
+}
+.footer-area .footer-left p {
+    margin-top: 15px;
+}
+.copy-area {
+    text-align: center;
+}
+.banner-area {
+    height: 100%;
+    padding: 80px 0;
+}
+.banner-area::before {
+    background-size: cover;
+    background-position: center center;
+}
+.about-area {
+    padding: 50px 0;
+}
+.about-area .visit {
+    font-size: 20px!important;
+}
+.about-area .single-about .about-contnet p {
+    padding-right: 0;
+}
+.about-area .about-btn {
+    display: unset;
+}
+.about-area .about-btn .video-pop {
+    margin: 30px 0;
+}
+.single-class-area {
+    padding: 50px 0;
+}
+.single-class-area .visit, .single-class-area .sp-class {
+    font-size: 24px!important;
+}
+.single-class-area .single-class .class-contnet p {
+    padding-right: 0;
+}
+.single-class-area .class-content-right {
+    margin-top: 30px;
+}
+.single-class-area .class-content-right .consultation-area h2 {
+    font-size: 21px;
+}
+.single-class-area .class-content-right .consultation-area .box-btn {
+    padding: 10px 30px;
+}
+.events {
+    padding: 50px 0;
+}
+.events .pagination {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.single-event {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.single-event .event-slider .content h2 {
+    padding-bottom: 15px;
+}
+.single-event .event-slider .content p {
+    padding-right: 0;
+    margin-bottom: 10px;
+}
+.single-event .share {
+    margin-top: 25px;
+    margin-bottom: 0;
+    position: unset;
+}
+.single-event .right-content {
+    margin-top: 30px;
+}
+.single-event .right-content .visit {
+    font-size: 24px!important;
+}
+.single-event .right-content .single-content .content {
+    padding: 30px 20px;
+}
+.single-event .right-content .single-content .content a h2 {
+    font-size: 18px;
+}
+.shape-ellips-contact {
+    display: none;
+}
+.contact-service {
+    padding: 50px 0;
+}
+.contact-service .single-service {
+    margin-top: 20px;
+}
+.price-area {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.admission-area {
+    padding: 50px 0;
+}
+.admission-area .admission-form {
+    padding: 20px;
+}
+.admission-area .admission-form h2 {
+    font-size: 25px;
+}
+.faq-area {
+    padding: 50px 0;
+}
+.news {
+    padding: 50px 0;
+}
+.news .pagination {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.news .single-news .content {
+    padding: 20px;
+}
+.news .single-news .content a h2 {
+    font-size: 17px;
+}
+.price-area {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.price-area .single-price {
+    margin-top: 30px;
+}
+.privecy-area, .terms-area {
+    padding: 50px 0;
+}
+.signup-area {
+    padding: 50px 0;
+}
+.signup-area .signup-form h2 {
+    font-size: 22px;
+}
+.signup-area .signup-form .box-btn {
+    padding: 10px 25px;
+}
+.single-news-area {
+    padding: 50px 0;
+}
+.single-news-area .news-slider .content h2 {
+    font-size: 20px;
+}
+.single-news-area .news-slider .content p {
+    padding-right: 0;
+    margin-bottom: 10px;
+}
+.single-news-area .m-news {
+    font-size: 24px!important;
+}
+.single-news-area .share {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    margin: 20px 0;
+}
+.single-news-area .more-news {
+    margin-top: -10px;
+}
+.single-news-area .more-news .single-news .content {
+    padding: 30px 25px;
+}
+.single-news-area .more-news .single-news .content a h2 {
+    font-size: 18px;
+}
+.single-news-area .news-content-right .consultation-area h2 {
+    font-size: 21px;
+}
+.single-news-area .news-content-right .consultation-area .box-btn {
+    padding: 10px 20px;
+}
+.single-news-area .news-content-right .visit, .single-news-area .news-content-right .sp-class {
+    font-size: 20px!important;
+}
+.single-teacher-area {
+    padding: 50px 0;
+}
+.single-teacher-area .teacher-slider .single-slider .content p {
+    padding-right: 0;
+    margin-bottom: 10px;
+}
+.single-teacher-area .about-search {
+    margin-top: 20px;
+}
+.single-teacher-area .visit {
+    font-size: 24px!important;
+}
+.single-teacher-area .right-content i.flaticon-search {
+    top: 40%}
+.teachers-area {
+    padding: 50px 0;
+}
+.teachers-area .pagination {
+    margin: 0;
+}
+.testimonials-area {
+    padding: 50px 0;
+}
+.testimonials-area .section-tittle {
+    margin-bottom: 20px;
+}
+.testimonials-area .section-tittle p {
+    margin: 0;
+}
+.testimonials-area .single-testimonials {
+    padding: 20px 10px;
+}
+.testimonials-area .pagination {
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+.about-area .about-content-right .consultation-area h2 {
+    font-size: 21px;
+}
+.about-area .single-about .about-contnet h2 {
+    font-size: 20px;
+}
+.price-area .single-price .price-head h2 {
+    font-size: 25px;
+}
+.price-area .single-price .price-head p {
+    font-size: 20px!important;
+}
+.privecy-area h2 {
+    font-size: 25px;
+}
+.teachers-area {
+    padding: 50px 0;
+}
+.teachers-area .single-teacher .teachers-content {
+    max-width: 80%;
+    margin: auto;
+    left: 0;
+}
+.teachers-area .single-teacher .teachers-content p {
+    font-size: 13px!important;
+}
+.teachers-area .single-teacher .teacher-social {
+    left: 32px;
+    width: 81%}
+.terms-area h2 {
+    font-size: 25px;
+}
+.class-area {
+    padding: 50px 0;
+}
+.class-area .pagination {
+    margin-bottom: 0;
+}
+.class-area .single-ragular-course .course-img h2 {
+    font-size: 27px;
+}
+.special-single-class {
+    padding: 50px 0;
+    text-align: center;
+}
+}@media only screen and (min-width:480px) and (max-width:767px) {
+    .slider-area .home-slider .single-slider .slider-tittle p {
+    font-size: 14px!important;
+}
+.choose-area .home-choose-img::before {
+    height: 127%}
+.home-special-course .single-home-special-course:hover .course-img .course-content h2 {
+    bottom: 170px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content p {
+    bottom: 60px;
+}
+.home-special-course .single-home-special-course:hover .course-img .course-content a {
+    bottom: 0;
+}
+.home-special-course .single-home-special-course .course-img .course-content p {
+    padding: 10 30px;
+    font-size: 14px!important;
+}
+.home-news .single-home-news {
+    text-align: center;
+}
+.home-news .single-home-news .single-home-content {
+    width: 72.5%;
+    margin: auto;
+    text-align: left;
+}
+.home-news .single-home-news .single-home-content .calender {
+    font-size: 13px!important;
+}
+.events .single-events, .events .single-news, .news .single-events, .news .single-news {
+    text-align: center;
+}
+.events .single-events .content, .events .single-news .content, .news .single-events .content, .news .single-news .content {
+    width: 72.5%;
+    margin: auto;
+    text-align: left;
+}
+.events .single-events .content .calender, .events .single-news .content .calender, .news .single-events .content .calender, .news .single-news .content .calender {
+    font-size: 13px!important;
+}
+.home-ragular-course .single-ragular-course {
+    max-width: 72%;
+    margin: 10px auto;
+}
+.about-area .about-btn {
+    display: unset;
+}
+.about-area .about-btn .box-btn {
+    padding: 13px 25px;
+    top: 25px;
+}
+.about-area .about-btn .video-pop {
+    margin: 30px 20px;
+}
+.gallery-area .gall-list .single-gall .gall-img {
+    max-width: 87%}
+.price-area .single-price {
+    max-width: 75%;
+    margin: auto;
+    margin-top: 30px;
+}
+.single-event .right-content .single-content {
+    width: 73%}
+.class-area {
+    padding: 50px 0;
+}
+.class-area .single-ragular-course {
+    max-width: 72%;
+    margin: 10px auto;
+}
+.special-single-class {
+    padding: 75px 0;
+}
+.special-single-class .single-sp-class .course-img {
+    width: 100%}
+.special-single-class .single-sp-class .course-img .course-content h2 {
+    bottom: 10px;
+    font-size: 25px;
+}
+.special-single-class .single-sp-class .course-img .course-content p {
+    padding: 10px;
+    font-size: 14px!important;
+    margin-bottom: 20px;
+}
+.special-single-class .single-sp-class .course-img .course-content .box-btn {
+    margin: auto;
+}
+.special-single-class .single-sp-class:hover .course-img .course-content {
+    height: 100%}
+.special-single-class .single-sp-class:hover .course-img .course-content h2 {
+    bottom: 150px;
+}
+.special-single-class .single-sp-class:hover .course-img .course-content p {
+    bottom: 40px;
+}
+.special-single-class .single-sp-class:hover .course-img .course-content .box-btn {
+    bottom: 15px;
+}
+}

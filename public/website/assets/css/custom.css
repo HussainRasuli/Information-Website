@@ -1,0 +1,89 @@
+div.div-devider {
+    background-color: #eee;
+    width: 100%;
+    height: 2px;
+}
+
+.know_btn{
+    background: #4c4c4c !important;
+    color: #fff !important;
+    padding: 20px 40px !important;
+    width: 30% !important;
+    font-weight: bold !important;
+
+}
+
+.know_btn:hover{
+    background: #83c64b !important;
+    color: #fff !important;
+}
+
+.footer_item{
+    color: #fff;
+    font-size: 15px;
+}
+.footer_item:hover{
+    color:#83c64b !important;
+    cursor: pointer;
+
+}
+
+.footer_item_li{
+    font-size: 10px;
+}
+
+
+        /* style of custom pagination */
+        .simple-pagination ul {
+            margin: 0 0 20px;
+            padding: 0;
+            list-style: none;
+            text-align: center;
+        }
+        .simple-pagination li {
+            display: inline-block;
+            margin-right: 5px;
+        }
+        .simple-pagination li a,
+        .simple-pagination li span {
+            color: #666;
+            padding: 10px 16px;
+            text-decoration: none;
+            border-radius: 3px;
+            background-color: #FFF;
+            box-shadow: 0px 0px 10px 0px #EEE;
+            font-size: 13px;
+        }
+        .simple-pagination .current {
+            background: #3e3e3e;
+            color: #f8fafd;
+        }
+        .simple-pagination .prev.current
+        .simple-pagination .next.current {
+            background: #f0f0f0;
+            color: #777777;
+            font-weight: bold;
+        }
+        /* End of custom Pagination style */
+
+
+
+        /* 
+    Error Message Design
+*/
+h6.error_message{
+    color: red;
+    padding-top: 7px;
+    font-size: 14px;
+}
+
+
+/* 
+    Error Messages hide
+*/
+.contact-name-error,.contact-email-error,.contact-phone-error,.captcha-error,.contact-subject-error,.contact-message-error,
+.photo-error,.address-error,.email-error,.phone-error,.message-error,.title-error,.item-error,.donate-section-error,
+.zip-code-error,.city_error,.country_error,.lastname-error,.firstname-error,.address_error
+{
+    display: none;
+}
